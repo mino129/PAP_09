@@ -1,0 +1,287 @@
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\bin\Debug\db_pap.accdb
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.exe.config
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.exe
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.pdb
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.xml
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Form1.resources
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Resources.resources
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.vbproj.GenerateResource.Cache
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.exe
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.xml
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.pdb
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.listforn.resources
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cli.resources
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cli.resources
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_forn.resources
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cat.resources
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encdetalhes.resources
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encgeral.resources
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cat.resources
+C:\Users\12q-20096\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_encomendasvb.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.exe.config
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.exe
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.xml
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.pdb
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Form1.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.listforn.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cat.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cli.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encdetalhes.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encgeral.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_form.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Resources.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cat.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cli.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_encomendasvb.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_forn.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pag.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.exe
+C:\Users\User\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.pdb
+C:\Users\User\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.xml
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pagv2.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_pag.resources
+C:\Users\User\Desktop\PAP_09\PAP_09\bin\Debug\db_papDataSet.Designer.vb
+C:\Users\User\Desktop\PAP_09\PAP_09\bin\Debug\db_papDataSet.vb
+C:\Users\User\Desktop\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsc
+C:\Users\User\Desktop\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsd
+C:\Users\User\Desktop\PAP_09\PAP_09\bin\Debug\db_papDataSet.xss
+C:\Users\User\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.art_op.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\bin\Debug\PAP_09.exe.config
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.exe
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.xml
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.pdb
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\bin\Debug\db_papDataSet.Designer.vb
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\bin\Debug\db_papDataSet.vb
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsc
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsd
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\bin\Debug\db_papDataSet.xss
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\bin\Debug\PAP_09.exe
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\bin\Debug\PAP_09.pdb
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\bin\Debug\PAP_09.xml
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.art_op.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Form1.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.listforn.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cat.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cli.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encdetalhes.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encgeral.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_form.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_pag.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Resources.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cat.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cli.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_encomendasvb.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_forn.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pag.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pagv2.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.searchvendas.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.deleteenc.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.relenc.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.login.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.menuemp.resources
+C:\Users\User\Desktop\Mino (nao apagar)\PAP_09\PAP_09\obj\x86\Debug\PAP_09.loadingscreen.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\bin\Debug\PAP_09.exe.config
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.exe
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.xml
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.pdb
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\bin\Debug\db_papDataSet.Designer.vb
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\bin\Debug\db_papDataSet.vb
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsc
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsd
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\bin\Debug\db_papDataSet.xss
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\bin\Debug\PAP_09.exe
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\bin\Debug\PAP_09.pdb
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\bin\Debug\PAP_09.xml
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.art_op.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.deleteenc.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Form1.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.listforn.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cat.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cli.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encdetalhes.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encgeral.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_form.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_pag.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.loadingscreen.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.login.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.menuemp.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Resources.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cat.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cli.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_encomendasvb.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_forn.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pag.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pagv2.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.relenc.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.searchvendas.resources
+C:\Users\Mino\Desktop\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.vbproj.GenerateResource.Cache
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\PAP_09.exe.config
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.exe
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.xml
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.pdb
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\db_papDataSet.Designer.vb
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\db_papDataSet.vb
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsc
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsd
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\db_papDataSet.xss
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\PAP_09.exe
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\PAP_09.pdb
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\PAP_09.xml
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.art_op.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.deleteenc.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Form1.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.listforn.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cat.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cli.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encdetalhes.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encgeral.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_form.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_pag.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.loadingscreen.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.login.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.menuemp.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Resources.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cat.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cli.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_encomendasvb.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_forn.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pag.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pagv2.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.relenc.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.searchvendas.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.vbproj.GenerateResource.Cache
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_emp.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_emp.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_dep.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.listdep.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.Designer.vb
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.xsc
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.xsd
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.xss
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_dep.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.geststock.resources
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.Designer.vb
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.xsc
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.xsd
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.xss
+C:\Users\Mino\Documents\files\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_art_form_esp.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.exe.config
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.exe
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.xml
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.pdb
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.vbprojResolveAssemblyReference.cache
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.art_op.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.deleteenc.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Form1.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.geststock.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.listdep.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.listforn.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_art_form_esp.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cat.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cli.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_dep.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_emp.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encdetalhes.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encgeral.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_form.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_pag.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.loadingscreen.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.login.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.menuemp.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Resources.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cat.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cli.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_dep.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_emp.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_encomendasvb.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_forn.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pag.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pagv2.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.relenc.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.searchvendas.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.vbproj.GenerateResource.Cache
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\db_papDataSet.Designer.vb
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\db_papDataSet.vb
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.Designer.vb
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsc
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsd
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\db_papDataSet.xss
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.xsc
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.xsd
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.xss
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.exe
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.pdb
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.xml
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_arm.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_arm.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_gest_stock.resources
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.Designer.vb
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.vb
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.xsc
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.xsd
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.xss
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.exe.manifest
+C:\Users\Mino\Desktop\PAP_09\PAP_09\bin\Debug\PAP_09.application
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.exe.manifest
+C:\Users\Mino\Desktop\PAP_09\PAP_09\obj\x86\Debug\PAP_09.application
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\PAP_09.exe.config
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.exe
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.xml
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.pdb
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.Designer.vb
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.vb
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\db_papDataSet.Designer.vb
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\db_papDataSet.vb
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.Designer.vb
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.xsc
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.xsd
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\art_esp_dbDataSet.xss
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsc
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\db_papDataSet.xsd
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\db_papDataSet.xss
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.xsc
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.xsd
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\employeedb_papDataSet.xss
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\PAP_09.exe.manifest
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\PAP_09.application
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\PAP_09.exe
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\PAP_09.pdb
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\bin\Debug\PAP_09.xml
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.vbprojResolveAssemblyReference.cache
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.art_op.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.deleteenc.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Form1.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.geststock.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.listdep.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.listforn.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_arm.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_art_form_esp.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cat.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_cli.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_dep.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_emp.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encdetalhes.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_encgeral.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_form.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_gest_stock.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.list_pag.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.loadingscreen.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.login.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.menuemp.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.Resources.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_arm.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cat.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_cli.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_dep.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_emp.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_encomendasvb.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_forn.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pag.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.op_pagv2.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.relenc.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.searchvendas.resources
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.vbproj.GenerateResource.Cache
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.exe.manifest
+C:\Users\Mino\Desktop\PAP V Final\PAP_09\PAP_09\obj\x86\Debug\PAP_09.application

@@ -1,0 +1,384 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PAP_09
+</name>
+</assembly>
+<members>
+<member name="T:PAP_09.art_esp_dbDataSet.armazensDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSet.art_espDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSet.art_gest_stockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSet.armazensRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSet.art_espRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSet.art_gest_stockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSet.armazensRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSet.art_espRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSet.art_gest_stockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSetTableAdapters.armazensTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSetTableAdapters.art_espTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSetTableAdapters.art_gest_stockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PAP_09.art_esp_dbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PAP_09.art_esp_dbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PAP_09.art_esp_dbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PAP_09.art_esp_dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PAP_09.art_esp_dbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PAP_09.art_esp_dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PAP_09.art_esp_dbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PAP_09.art_esp_dbDataSetTableAdapters.TableAdapterManager.UpdateAll(PAP_09.art_esp_dbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PAP_09.art_esp_dbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.ArtigosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.CategoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.EncomendaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.Encomenda_DetalhesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.FornecedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.PagamentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.ArtigosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.CategoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.EncomendaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.Encomenda_DetalhesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.FornecedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.PagamentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.ArtigosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.CategoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.EncomendaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.Encomenda_DetalhesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.FornecedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.db_papDataSet.PagamentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.db_papDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PAP_09.db_papDataSetTableAdapters.ArtigosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PAP_09.db_papDataSetTableAdapters.CategoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PAP_09.db_papDataSetTableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PAP_09.db_papDataSetTableAdapters.EncomendaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PAP_09.db_papDataSetTableAdapters.Encomenda_DetalhesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PAP_09.db_papDataSetTableAdapters.FornecedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PAP_09.db_papDataSetTableAdapters.PagamentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PAP_09.db_papDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PAP_09.db_papDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PAP_09.db_papDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PAP_09.db_papDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PAP_09.db_papDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PAP_09.db_papDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PAP_09.db_papDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PAP_09.db_papDataSetTableAdapters.TableAdapterManager.UpdateAll(PAP_09.db_papDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PAP_09.db_papDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PAP_09.db_papDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PAP_09.db_papDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSet.depDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSet.EMPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSet.depRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSet.EMPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSet.depRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSet.EMPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSetTableAdapters.depTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSetTableAdapters.EMPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PAP_09.employeedb_papDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PAP_09.employeedb_papDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PAP_09.employeedb_papDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PAP_09.employeedb_papDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PAP_09.employeedb_papDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PAP_09.employeedb_papDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PAP_09.employeedb_papDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PAP_09.employeedb_papDataSetTableAdapters.TableAdapterManager.UpdateAll(PAP_09.employeedb_papDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PAP_09.employeedb_papDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources._0b9a9b115a2971d0a6b9b830b3ca5929">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources._585e4ae9cb11b227491c3394">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources._61848">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.f3f305dd9e">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.f3f305dd9e1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.img_135335">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.logomarca_empresa_de_decoracao__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.rsz_1img_135335">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.rsz_1suppliers_icon_png_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.rsz_credit_card_3_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.rsz_credit_card_3_5121">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.rsz_orders_5_370822">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.rsz_transferir">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PAP_09.My.Resources.Resources.tenor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PAP_09.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

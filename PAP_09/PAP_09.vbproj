@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{656CC2E9-83C7-4A26-B75C-D1F9086A253A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PAP_09.My.MyApplication</StartupObject>
+    <RootNamespace>PAP_09</RootNamespace>
+    <AssemblyName>PAP_09</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Mino\Desktop\PAP_09\Instalacao\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PAP_09.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PAP_09.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>11A2B23A422AB90D5FF87C0995277F5BD6546054</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>PAP_09_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="art_esp_dbDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>art_esp_dbDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="art_esp_dbDataSet.vb">
+      <DependentUpon>art_esp_dbDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="art_op.Designer.vb">
+      <DependentUpon>art_op.vb</DependentUpon>
+    </Compile>
+    <Compile Include="art_op.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="db_papDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>db_papDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="db_papDataSet.vb">
+      <DependentUpon>db_papDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="deleteenc.Designer.vb">
+      <DependentUpon>deleteenc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="deleteenc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employeedb_papDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>employeedb_papDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geststock.Designer.vb">
+      <DependentUpon>geststock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geststock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listdep.Designer.vb">
+      <DependentUpon>listdep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="listdep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listforn.Designer.vb">
+      <DependentUpon>listforn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="listforn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_arm.Designer.vb">
+      <DependentUpon>list_arm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_arm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_art_form_esp.Designer.vb">
+      <DependentUpon>list_art_form_esp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_art_form_esp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_cat.Designer.vb">
+      <DependentUpon>list_cat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_cat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_cli.Designer.vb">
+      <DependentUpon>list_cli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_cli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_dep.Designer.vb">
+      <DependentUpon>list_dep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_dep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_emp.Designer.vb">
+      <DependentUpon>list_emp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_emp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_encdetalhes.Designer.vb">
+      <DependentUpon>list_encdetalhes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_encdetalhes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_encgeral.Designer.vb">
+      <DependentUpon>list_encgeral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_encgeral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_form.Designer.vb">
+      <DependentUpon>list_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_gest_stock.Designer.vb">
+      <DependentUpon>list_gest_stock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_gest_stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_pag.Designer.vb">
+      <DependentUpon>list_pag.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_pag.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loadingscreen.Designer.vb">
+      <DependentUpon>loadingscreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loadingscreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuemp.Designer.vb">
+      <DependentUpon>menuemp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuemp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="op_arm.Designer.vb">
+      <DependentUpon>op_arm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="op_arm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="op_cat.Designer.vb">
+      <DependentUpon>op_cat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="op_cat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="op_cli.Designer.vb">
+      <DependentUpon>op_cli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="op_cli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="op_dep.Designer.vb">
+      <DependentUpon>op_dep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="op_dep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="op_emp.Designer.vb">
+      <DependentUpon>op_emp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="op_emp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="op_encomendasvb.Designer.vb">
+      <DependentUpon>op_encomendasvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="op_encomendasvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="op_forn.Designer.vb">
+      <DependentUpon>op_forn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="op_forn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="op_pag.Designer.vb">
+      <DependentUpon>op_pag.vb</DependentUpon>
+    </Compile>
+    <Compile Include="op_pag.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="op_pagv2.Designer.vb">
+      <DependentUpon>op_pagv2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="op_pagv2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="relenc.Designer.vb">
+      <DependentUpon>relenc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="relenc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchvendas.Designer.vb">
+      <DependentUpon>searchvendas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="searchvendas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="art_op.resx">
+      <DependentUpon>art_op.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteenc.resx">
+      <DependentUpon>deleteenc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geststock.resx">
+      <DependentUpon>geststock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listdep.resx">
+      <DependentUpon>listdep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listforn.resx">
+      <DependentUpon>listforn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_arm.resx">
+      <DependentUpon>list_arm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_art_form_esp.resx">
+      <DependentUpon>list_art_form_esp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_cat.resx">
+      <DependentUpon>list_cat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_cli.resx">
+      <DependentUpon>list_cli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_dep.resx">
+      <DependentUpon>list_dep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_emp.resx">
+      <DependentUpon>list_emp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_encdetalhes.resx">
+      <DependentUpon>list_encdetalhes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_encgeral.resx">
+      <DependentUpon>list_encgeral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_form.resx">
+      <DependentUpon>list_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_gest_stock.resx">
+      <DependentUpon>list_gest_stock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_pag.resx">
+      <DependentUpon>list_pag.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loadingscreen.resx">
+      <DependentUpon>loadingscreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuemp.resx">
+      <DependentUpon>menuemp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="op_arm.resx">
+      <DependentUpon>op_arm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="op_cat.resx">
+      <DependentUpon>op_cat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="op_cli.resx">
+      <DependentUpon>op_cli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="op_dep.resx">
+      <DependentUpon>op_dep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="op_emp.resx">
+      <DependentUpon>op_emp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="op_encomendasvb.resx">
+      <DependentUpon>op_encomendasvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="op_forn.resx">
+      <DependentUpon>op_forn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="op_pag.resx">
+      <DependentUpon>op_pag.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="op_pagv2.resx">
+      <DependentUpon>op_pagv2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="relenc.resx">
+      <DependentUpon>relenc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchvendas.resx">
+      <DependentUpon>searchvendas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="art_esp_dbDataSet.xsc">
+      <DependentUpon>art_esp_dbDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="art_esp_dbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>art_esp_dbDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="art_esp_dbDataSet.xss">
+      <DependentUpon>art_esp_dbDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="db_papDataSet.xsc">
+      <DependentUpon>db_papDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="db_papDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>db_papDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="db_papDataSet.xss">
+      <DependentUpon>db_papDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="employeedb_papDataSet.xsc">
+      <DependentUpon>employeedb_papDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="employeedb_papDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>employeedb_papDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="employeedb_papDataSet.xss">
+      <DependentUpon>employeedb_papDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="art_esp_db.accdb" />
+    <Content Include="db_pap.accdb" />
+    <Content Include="employeedb_pap.accdb" />
+    <None Include="PAP_09_TemporaryKey.pfx" />
+    <None Include="Resources\logomarca-empresa-de-decoracao %282%29.jpg" />
+    <None Include="Resources\585e4ae9cb11b227491c3394.png" />
+    <None Include="Resources\61848.png" />
+    <None Include="Resources\f3f305dd9e1.png" />
+    <None Include="Resources\0b9a9b115a2971d0a6b9b830b3ca5929.png" />
+    <None Include="Resources\download.png" />
+    <None Include="Resources\tenor.gif" />
+    <None Include="Resources\rsz_credit_card-3-5121.png" />
+    <None Include="Resources\rsz_orders-5-370822.png" />
+    <None Include="Resources\rsz_transferir.jpg" />
+    <None Include="Resources\rsz_1suppliers-icon-png-6.png" />
+    <None Include="Resources\rsz_1img_135335.png" />
+    <None Include="Resources\rsz_credit_card-3-512.png" />
+    <None Include="Resources\img_135335.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
